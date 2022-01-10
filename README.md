@@ -4,15 +4,15 @@ tun2socks openwrt v1.999.128 [NEW DEC 2020]
 <pre>
 SUPPORT :
 <ul>
-<li>badvpn-tun2socks</li>
-<li>badvpn-udpgw</li>
-<li>NSS<li>
-<li>NSPR<li>
-<li>badvpn-server<li>
-<li>badvpn-client<li>
-<li>badvpn-tunctl<li>
-<li>badvpn-ncd<li>
-<li>badvpn-ncd-request<li>
+badvpn-tun2socks
+badvpn-udpgw
+NSS
+NSPR
+badvpn-server
+badvpn-client
+badvpn-tunctl
+badvpn-ncd
+badvpn-ncd-request
 </ul>
 </pre>
 
